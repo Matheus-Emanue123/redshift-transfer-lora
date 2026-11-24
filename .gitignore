@@ -14,3 +14,7 @@ __pycache__/
 *.bbl
 *.blg
 *.out
+
+# dados gerados localmente (grandes demais para o git)
+data/imagens/*
+data/modelo/*
