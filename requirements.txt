@@ -1,0 +1,15 @@
+# Coleta
+pyvo
+requests
+# Tratamento
+numpy
+pandas
+astropy
+h5py
+# Modelos (para GPU NVIDIA, instale o PyTorch pelo comando do site pytorch.org)
+torch
+torchvision
+peft
+# Visualização e análise
+matplotlib
+scipy
